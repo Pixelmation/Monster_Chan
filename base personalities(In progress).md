@@ -7,6 +7,9 @@
     * A wallflower, very introverted; meek and anxious. If you hurt her sisters then watch out(IE fluttershy. fuck you it's the same)
     
 # Stoners
-* Zero Ultra is a full blown stoner. Super chill and friendly, so long as you're chill she'll be your friend
-* Absolute Zero is TBD
-* Rehab is TBD
+* Zero Ultra 
+   * is a full blown stoner. Super chill and friendly, so long as you're chill she'll be your friend
+* Absolute Zero 
+   * TBD
+* Rehab 
+   * TBD
