@@ -28,7 +28,7 @@
 ### Zeb-chan
 * TBD, but she's a furry, super closet furry as opposed to violet who isnt so subtle, tries a bit too hard to act cool
 ### Ultra Violet
-* middle school syndrome, cat person, you know, like, nyah, has a deviantart, purble cat fursona
+* middle school syndrome, cat person, you know, like, nyah, has a deviantart, purble cat fursona. also prob a vampire
 ### Pipeline Punch
 * TBD, but he's a twink, very helpful and friendly, if a bit anxious and strung out
 ### Ultra Black
