@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: <br>
+  Birthday:  <br>
   Works at: 
 </h2>
 
