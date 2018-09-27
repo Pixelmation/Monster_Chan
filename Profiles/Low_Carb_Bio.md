@@ -14,11 +14,13 @@
 </h2>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Introverted</li>
+  <li>Animal lover; vegan for moral reasons</li>
+  <li>Somewhat aloof, loses her train of thought a lot</li>
+  <li>Calm and kind</li>
+  <li>Anxiety and mild PTSD from when she was bullied by Khaos</li>
+  <li>Cuts on her arms; faded but there and she's terrified of someone seeing them</li>
+  <li>Goes crazy for birds, and has a cockatiel named Villa</li>
 </ul>
 
 <h2>
@@ -26,7 +28,7 @@
 </h2>
 
 <p>
-  
+  Low-Carb grew up in highschool with Khaos, who made her life miserable. Bullied constantly, 
 </p>
 
 <p>
