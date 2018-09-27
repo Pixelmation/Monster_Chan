@@ -1,4 +1,4 @@
-<img src= "https://github.com/Pixelmation/Monster_Chan/blob/master/Images/rehab.png" width = 40% height = 40% align = "right">
+<img src = "https://github.com/Pixelmation/Monster_Chan/blob/master/Images/rehab.png" width = 40% height = 40% align = "right">
 
 <h1>
   Rehab
