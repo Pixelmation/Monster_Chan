@@ -6,7 +6,7 @@
 
 <h2>
   Birthday: January 24 (Aquarius, Age: 20)<br>
-  Works at: Pet Store(probably named "Pawstively Precious")
+  Works at: Pawstively Precious
 </h2>
 
 <h2>
