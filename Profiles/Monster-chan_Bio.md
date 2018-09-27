@@ -6,7 +6,7 @@
 
 <h2>
   Birthday: <br>
-  Works at: 
+  Works at: Gamestop
 </h2>
 
 <h2>
@@ -14,11 +14,11 @@
 </h2>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Gamer Girl</li>
+  <li>Really Sarcastic, borderline sadistic sometimes</li>
+  <li>Really smug about her gamer skills</li>
+  <li>Will 1v1 you in CoD(don't she's actually one of the best players in NA)</li>
+  <li>Lives off of Energy drinks and doritos. How she's still functioning is beyond me</li>
 </ul>
 
 <h2>
