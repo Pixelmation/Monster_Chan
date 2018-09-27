@@ -1,6 +1,4 @@
-<p align = "center"> 
-  <img src= "https://github.com/Pixelmation/Monster_Chan/blob/master/Images/khaos.png" width = 50% height = 50% align:center>
-</p>
+<img src= "https://github.com/Pixelmation/Monster_Chan/blob/master/Images/khaos.png" width = 40% height = 40% align = "right">
 
 <h1>
   Khaos
@@ -12,18 +10,18 @@
 </h2>
 
 <h2>
-Personality:
+  Personality:
 </h2>
 
 <ul>
   <li>Very “manic pixie girl” disposition</li>
-<li>Seems really chaotic and flirty</li>
-<li>Really bubbly and supportive</li>
-<li>Uses all of this to hide insecurities</li>
-<li>Terrified that her Highschool transgressions Will come back to haunt her</li>
-<li>Constantly tries to make it up to herself</li>
-<li>Ignores her own problems to try and help others</li>
-<li>Excitement is more or less a mask; struggles with Thinking she’s still a bad person</li>
+  <li>Seems really chaotic and flirty</li>
+  <li>Really bubbly and supportive</li>
+  <li>Uses all of this to hide insecurities</li>
+  <li>Terrified that her Highschool transgressions Will come back to haunt her</li>
+  <li>Constantly tries to make it up to herself</li>
+  <li>Ignores her own problems to try and help others</li>
+  <li>Excitement is more or less a mask; struggles with Thinking she’s still a bad person</li>
 </ul>
 
 <h2>
