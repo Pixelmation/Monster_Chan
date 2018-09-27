@@ -6,7 +6,7 @@
 
 <h2>
   Birthday: <br>
-  Works at: 
+  Works at: Coffee Shop
 </h2>
 
 <h2>
