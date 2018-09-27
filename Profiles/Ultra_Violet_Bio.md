@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: <br> December 12 (Sagittarius)
+  Birthday: <br> December 12 (Sagittarius) <br>
   Works at: Subway idk
 </h2>
 
