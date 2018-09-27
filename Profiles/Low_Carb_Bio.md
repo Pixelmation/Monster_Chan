@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: March 17 (Pisces, Age: 20)<br>
+  Birthday: January 24 (Aquarious, Age: 20)<br>
   Works at: Pet Store(probably named "Pawstively Precious")
 </h2>
 
