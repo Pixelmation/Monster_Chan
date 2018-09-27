@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday:  <br>
+  Birthday:  <br> April 2 (Aries)
   Works at: 
 </h2>
 
