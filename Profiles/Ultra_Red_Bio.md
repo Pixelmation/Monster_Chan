@@ -5,24 +5,24 @@
 </h1>
 
 <h2>
-  Birthday:  <br> April 2 (Aries)
-  Works at: 
+  Birthday: April 2 (Aries) <br> 
+  Works at: Claire's
 </h2>
 
 <h2>
-  Personality:
-</h2>
+  Personality: 
+  </h2>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li></li> Tsundere to the core
+  <li></li> Popular in High School
+  <li></li> Tiny as hell
   <li></li>
   <li></li>
 </ul>
 
 <h2>
-  Background:
+  Background: Ultra Red comes from a pretty well off family but the constant fighting has caused her to be adverse to showing any sort of vulnerability. She was Khaos's lacky in high school and admired her aparent strength deeply. Her wall of self defense stands to this day  but it's getting easier to spot cracks in her demenor into her soft side. She secretly loves romance and dating sims. 
 </h2>
 
 <p>
