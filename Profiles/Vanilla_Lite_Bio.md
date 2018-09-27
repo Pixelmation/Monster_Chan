@@ -1,7 +1,7 @@
 <img src= "https://github.com/Pixelmation/Monster_Chan/blob/master/Images/vanlight.png" width = 40% height = 40% align = "right">
 
 <h1>
-  Mean Bean
+  Vanilla Lite
 </h1>
 
 <h2>
