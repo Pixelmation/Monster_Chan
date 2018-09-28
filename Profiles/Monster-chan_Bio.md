@@ -26,7 +26,7 @@
 </h2>
 
 <p>
-  
+  Monster-chan grew up around video games all her life, her parents getting her an SNES when she was yound and she's been addicted ever since. She moved from family friendly games to more competitive titles in her early teens, and has since climbed the ranks to become one of the best players in North America. Her crass, near sadistic additude is consistant both online and offline, both driving some individuals away and attracting others. 
 </p>
 
 <p>
