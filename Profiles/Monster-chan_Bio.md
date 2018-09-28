@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: August 15 (Leo, Age: 21)<br>
+  Birthday: August 15th (Leo, Age: 21)<br>
   Works at: Gamestop
 </h2>
 
