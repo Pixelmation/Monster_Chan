@@ -1,2 +1,3 @@
-# Monster_Chan
+# Energized! 
+
 Repository for Monster dating sim
