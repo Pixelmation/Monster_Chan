@@ -14,10 +14,10 @@
 </h2>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Rave Girl</li>
+  <li>Super exitable</li>
+  <li>Loves having fun and getting others to have fun</li>
+  <li>Sober? On the weekend? good fuckin luck</li>
   <li></li>
 </ul>
 
