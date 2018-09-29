@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: <br>
+  Birthday: March 29th (Aries, Age: 19)<br>
   Works at: Coffee Shop
 </h2>
 
