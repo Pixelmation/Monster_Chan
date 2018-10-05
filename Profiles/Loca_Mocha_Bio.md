@@ -31,5 +31,5 @@
 </p>
 
 <p>
-  Once she reached junior year, she discovered the rave scene and it all went to (good) shit.
+  Once she reached junior year, she discovered the rave scene and it all went to (good) shit. Every night she could get away with it, She went out and forgot about the rest of the world. For a good few months she would end up missing morning classes from getting blackout drunk, completely baked, or when she felt like having extra fun trying a new drug some lucky dealer offered her. She never allowed herself to get genuinly addicted to anything, taking tolerence breaks fairly often for one thing or another. Her older sisters were worried regardless though, and eventually tried to get her to at least tone it done and graduate. She complied, but her raving never stopped. More recently, she's been trying to get her older sister Vanilla Lite to come out of her shell and enjoy herself, though it hasn't gotten very far.
 </p>
