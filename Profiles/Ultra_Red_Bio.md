@@ -17,8 +17,8 @@
   <li>Tsundere to the core</li> 
   <li>Popular in High School</li> 
   <li>Tiny as hell</li> 
-  <li></li>
-  <li></li>
+  <li>Hates showing weakness</li>
+  <li>Makes her rather touch and emotion-starved</li>
 </ul>
 
 <h2>
