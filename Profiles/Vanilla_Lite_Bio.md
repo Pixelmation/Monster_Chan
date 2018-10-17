@@ -5,7 +5,7 @@
 </h1>
 
 <h2>
-  Birthday: <br>
+  Birthday: IDK yet (age:19) <br>
   Works at: Coffee Shop
 </h2>
 
@@ -14,11 +14,12 @@
 </h2>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Extremely shy; a wallflower</li>
+  <li>Perfectly Content with her introvertedness</li>
+  <li>Deeply bonded with her sisters</li>
+  <li>Lost in her own mind a lot</li>
+  <li>cheerful once you get to know her a bit</li>
+  <li>Intense love of Botany</li>
 </ul>
 
 <h2>
